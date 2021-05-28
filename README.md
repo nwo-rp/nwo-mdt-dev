@@ -1,1 +1,0 @@
-# nwo-mdt-dev
